@@ -1,4 +1,4 @@
-Disables playing any audiofiles coming from the Jukebox directory.
+Disables playing any audiofiles if its coming from the Jukebox.
 
 What why
 1. Jukebox is an [old PR](https://github.com/space-wizards/space-station-14/pull/20418) that was later [revived](https://github.com/space-wizards/space-station-14/pull/26736) and [selfmerged](https://github.com/space-wizards/space-station-14/commit/2db374988c91c6ce5f932b9cee1ba251cbfb22e5) by sloth
